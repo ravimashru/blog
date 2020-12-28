@@ -43,7 +43,7 @@ Since this value falls in the range 10000 - 1FFFFF, we need 4 bytes to encode th
 
 Converting 1F603 to binary, we get: `0001 1111 0110 0000 0011`. We can start filling in these bits in the place of `X`s, starting from the right-most bit:
 
-![[emoji-utf8.png]]
+![emoji in utf8](emoji-utf8.png)
 
 This is the UTF-8 encoding of the emoji in binary. Converting this sequence to hexadecimal, we get the UTF-8 encoding of the emoji in hexadecimal: **F0 9F 98 83**.
 
