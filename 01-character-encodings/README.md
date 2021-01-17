@@ -1,6 +1,6 @@
 # Character Encodings
 
-Solutions to exercises I included in my blog post.
+Solutions to exercises I included in my [blog post](https://dev.to/ravimashru/an-introduction-to-character-encodings-4od4).
 
 ## Exercise 1
 **Decode the following hexadecimal ASCII encoded text: _48 65 6C 6C 6F 20 77 6F 72 6C 64 21_**
